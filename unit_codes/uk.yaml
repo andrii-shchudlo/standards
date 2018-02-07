@@ -1148,7 +1148,7 @@ BLL:
   name: barrel (US)
   symbol: barrel (US)
 BO:
-  name: "\u041f\u043b\u044f\u0448\u043a\u0438"
+  name: "\u043f\u043b\u044f\u0448\u043a\u0430"
   symbol: "\u043f\u043b\u044f\u0448"
 BP:
   name: hundred board foot
@@ -1481,8 +1481,8 @@ C99:
   name: reciprocal second per metre squared
   symbol: "s\u207B\xB9/m\xB2"
 CA:
-  name: can
-  symbol: ''
+  name: "\u043a\u0430\u043d\u0456\u0441\u0442\u0440\u0430"
+  symbol: "\u043a\u0430\u043d\u0456\u0441\u0442\u0440"
 CCT:
   name: carrying capacity in metric ton
   symbol: ''
@@ -1523,10 +1523,10 @@ CLT:
   name: centilitre
   symbol: cl
 CMK:
-  name: "\u0441\u0430\u043d\u0442\u0438\u043c\u0435\u0442\u0440 \u0432 \u043a\u0432\u0430\u0434\u0440\u0430\u0442\u0456"
+  name: "\u0441\u0430\u043d\u0442\u0438\u043c\u0435\u0442\u0440 \u043a\u0432\u0430\u0434\u0440\u0430\u0442\u043d\u0438\u0439"
   symbol: "\u0441\u043c\u00b2"
 CMQ:
-  name: "\u0441\u0430\u043d\u0442\u0438\u043c\u0435\u043d\u0442\u0440 \u0432 \u043a\u0443\u0431\u0456"
+  name: "\u0441\u0430\u043d\u0442\u0438\u043c\u0435\u0442\u0440 \u043a\u0443\u0431\u0456\u0447\u043d\u0438\u0439"
   symbol: "\u0441\u043c\u00b3"
 CMT:
   name: "\u0441\u0430\u043d\u0442\u0438\u043c\u0435\u0442\u0440"
@@ -1919,7 +1919,7 @@ DMA:
   name: cubic decametre
   symbol: "dam\xB3"
 DMK:
-  name: "\u0434\u0435\u0446\u0438\u043c\u0435\u0442\u0440 \u0432 \u043a\u0432\u0430\u0434\u0440\u0430\u0442\u0456"
+  name: "\u0434\u0435\u0446\u0438\u043c\u0435\u0442\u0440 \u043a\u0432\u0430\u0434\u0440\u0430\u0442\u043d\u0438\u0439"
   symbol: "\u0434\u0446\u00b2"
 DMO:
   name: standard kilolitre

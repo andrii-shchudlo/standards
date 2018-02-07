@@ -125,35 +125,38 @@ SEC:
   name_ru: секунда
   symbol_ru: с
 DMK:
-  name_ru: дециметр квадратний
-  symbol_ru: дц.кв.
+  name_ru: дециметр квадратный
+  symbol_ru: дц²
 JR:
   name_ru: банка
   symbol_ru: банк.
 E27:
   name_ru: доза
-  symbol_ru: доз.
+  symbol_ru: доз
 MLT:
   name_ru: милилитр
-  symbol_ru: мл.
+  symbol_ru: мл
 ST:
   name_ru: лист
   symbol_ru: лист
 BO:
   name_ru: бутылка
-  symbol_ru: бут.
+  symbol_ru: бут
 PA:
   name_ru: пакет
-  symbol_ru: пак.
+  symbol_ru: пак
 MIN:
   name_ru: минута
-  symbol_ru: мин.
+  symbol_ru: мин
 CMT:
  name_ru: сантиметр
- symbol_ru: см.
+ symbol_ru: см
 CMK:
-  name_ru: сантиметр в квадрате
-  symbol_ru: см.кв.
+  name_ru: сантиметр квадратный
+  symbol_ru: см²
 CMQ:
-  name_ru: сантиметр в кубе
-  symbol_ru: см.куб.
+  name_ru: сантиметр кубический
+  symbol_ru: см³
+CA:
+  name_ru: канистра
+  symbol_ru: канистр

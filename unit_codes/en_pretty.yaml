@@ -1481,8 +1481,8 @@ C99:
   name: reciprocal second per metre squared
   symbol: "s\u207B\xB9/m\xB2"
 CA:
-  name: can
-  symbol: ''
+  name: canister
+  symbol: can
 CCT:
   name: carrying capacity in metric ton
   symbol: ''

@@ -157,3 +157,6 @@ CMK:
 CMQ:
   name_en: cubic centimetre
   symbol_en: cm³
+CA:
+  name_en: canister
+  symbol_en: can

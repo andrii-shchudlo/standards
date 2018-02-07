@@ -123,10 +123,10 @@ VI:
   symbol_uk: флак.
 SEC:
   name_uk: секунда
-  symbol_uk: с.
+  symbol_uk: с
 DMK:
-  name_uk: дециметр в квадраті
-  symbol_uk: дц.кв.
+  name_uk: дециметр квадратний
+  symbol_uk: дц²
 JR:
   name_uk: банка
   symbol_uk: банк.
@@ -135,25 +135,28 @@ E27:
   symbol_uk: доз.
 MLT:
   name_uk: мілілітр
-  symbol_uk: мл.
+  symbol_uk: мл
 ST:
   name_uk: аркуш
   symbol_uk: арк.
 BO:
-  name_uk: Пляшки
+  name_uk: пляшка
   symbol_uk: пляш.
 PA:
   name_uk: пакунок
   symbol_uk: пак.
 MIN:
   name_uk: хвилина
-  symbol_uk: хв.
+  symbol_uk: хв
 CMT:
   name_uk: сантиметр
-  symbol_uk: см.
+  symbol_uk: см
 CMK:
-  name_uk: сантиметр в квадраті
-  symbol_uk: см.кв.
+  name_uk: сантиметр квадратний
+  symbol_uk: см²
 CMQ:
-  name_uk: сантиментр в кубі
-  symbol_uk: см.куб.
+  name_uk: сантиметр кубічний
+  symbol_uk: см³
+CA:
+  name_uk: каністра
+  symbol_uk: каністр

@@ -492,7 +492,7 @@ C96: {name: reciprocal pascal or pascal to the power minus one, symbol: "Pa\u207
 C97: {name: reciprocal second, symbol: "s\u207B\xB9"}
 C98: {name: reciprocal second per cubic metre, symbol: "s\u207B\xB9/m\xB3"}
 C99: {name: reciprocal second per metre squared, symbol: "s\u207B\xB9/m\xB2"}
-CA: {name: can, symbol: ''}
+CA: {name: canister, symbol: can}
 CCT: {name: carrying capacity in metric ton, symbol: ''}
 CDL: {name: candela, symbol: cd}
 CEL: {name: degree Celsius, symbol: "\xB0C"}

@@ -210,5 +210,9 @@
     "CMQ": {
         "name_en": "cubic centimetre",
         "symbol_en": "cm\u00b3"
+    },
+    "CA": {
+        "name_en": "canister",
+        "symbol_en": "can"
     }
 }
